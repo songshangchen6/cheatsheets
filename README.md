@@ -1,7 +1,4 @@
 
-[![Shangchen's github stats](https://github-readme-stats.vercel.app/api?username=songshangchen6)](https://github.com/songshangchen6)
-
-
 ## RStudio Cheat Sheets
 
 <img src="pngs/rstudio-ide.png" width=364 height=288 align="right"/>
